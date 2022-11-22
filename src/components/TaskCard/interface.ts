@@ -4,8 +4,8 @@ export interface ITask {
   dateCompleted: string;
   file: boolean;
   taskColor: string;
-  deleteTask: (id: string) => void;
-  doneTask: (id: string) => void;
+  deleteTask: () => void;
+  doneTask: () => void;
   showModalEditTask: () => void;
   isDisabled?: boolean;
 }
