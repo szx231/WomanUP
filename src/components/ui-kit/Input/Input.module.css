@@ -1,0 +1,30 @@
+.input {
+  padding: 10px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  width: 300px;
+  color: grey;
+}
+
+.input__item {
+  display: flex;
+  flex-direction: column;
+}
+
+.input__error {
+  text-align: center;
+  color: red;
+  transition: opacity .3s ease-in-out;
+}
+
+.file {
+  background-color: var(--color-blue);
+  border: 1px solid #fff;
+  border-radius: 2px;
+  padding: 7px;
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+  margin-top: 20px;
+}

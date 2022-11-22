@@ -1,0 +1,8 @@
+.wrapper {
+  border: 1px solid var(--color-violet);
+  overflow: auto;
+  width: 100vh;
+  height: 80vh;
+  position: relative;
+  background-color: #F5F5DC;
+}

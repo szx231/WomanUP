@@ -1,0 +1,10 @@
+.Container {
+  max-width: 1200px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
