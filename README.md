@@ -2,7 +2,7 @@
 #  WomanUP test-task(todo)
 
 ## 🐧 Links
-- `Project` https://637c36ba8279b60008600926--silver-faloodeh-0c6145.netlify.app/
+- `Project` https://silver-faloodeh-0c6145.netlify.app/
 - `Repository` https://github.com/szx231/WomanUP
 - `Telegramm` https://t.me/zxc2c22
 
